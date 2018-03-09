@@ -30,13 +30,13 @@ export default class Mine extends Component {
     render() { 
         return (
             <View style={styles._container}>
-                <Header title={"我的"}/>
+                <Header title={"我的天下第一"}/>
             </View>
         );
     }
 }
 const styles = StyleSheet.create({
-    _container: {   // 主页面样式
+    _container: {   // 主页面样式天下第一
         flex: 1,
         backgroundColor:'#fff'
     },
